@@ -1,0 +1,14 @@
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\obj\Debug\Excel_BT.csprojAssemblyReference.cache
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\bin\Debug\Excel_BT.dll
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\bin\Debug\Excel_BT.pdb
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\bin\Debug\MethodLibrary.dll
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\obj\Debug\Excel_BT.csproj.CopyComplete
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\obj\Debug\Excel_BT.dll
+C:\Users\Asus Vivobook A512\Desktop\Excel_Testing\Excel_BT\Excel_BT\obj\Debug\Excel_BT.pdb

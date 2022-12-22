@@ -1,0 +1,8 @@
+F:\ \HANCHOT\Excel_BT\Excel_BT\obj\Debug\DHKTPM14CTT_PhuongThuPhuc.csprojAssemblyReference.cache
+F:\ \HANCHOT\Excel_BT\Excel_BT\obj\Debug\DHKTPM14CTT_PhuongThuPhuc.csproj.CoreCompileInputs.cache
+F:\ \HANCHOT\Excel_BT\Excel_BT\obj\Debug\Excel_BT.dll
+F:\ \HANCHOT\Excel_BT\Excel_BT\obj\Debug\Excel_BT.pdb
+D:\DHKTPM14CTT_PhuongThuPhuc\Excel_BT\Excel_BT\obj\Debug\DHKTPM14CTT_PhuongThuPhuc.csprojAssemblyReference.cache
+D:\DHKTPM14CTT_PhuongThuPhuc\Excel_BT\Excel_BT\obj\Debug\DHKTPM14CTT_PhuongThuPhuc.csproj.CoreCompileInputs.cache
+D:\DHKTPM14CTT_PhuongThuPhuc\Excel_BT\Excel_BT\obj\Debug\Excel_BT.dll
+D:\DHKTPM14CTT_PhuongThuPhuc\Excel_BT\Excel_BT\obj\Debug\Excel_BT.pdb
